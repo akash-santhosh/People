@@ -9,7 +9,7 @@ Example :
 
 ## <center>Android Development</center>
 
-Person 1 (Flutter) - contact method 1, contact method 2 
-Person 2 (React Native) - contact method 1, contact method 2 
-Person 3 (Java) - contact method 1, contact method 2
-Person 4 (Kotlin) - contact method 1, contact method 2 
+- Person 1 (Flutter) - contact method 1, contact method 2 
+- Person 2 (React Native) - contact method 1, contact method 2 
+- Person 3 (Java) - contact method 1, contact method 2
+- Person 4 (Kotlin) - contact method 1, contact method 2 
