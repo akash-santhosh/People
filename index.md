@@ -1,4 +1,4 @@
-# <center>Resource Persons for Technologies</center>
+# <center>Resource Persons in Tech</center>
 \
 \
 .................................................................................................................................
