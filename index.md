@@ -6,9 +6,9 @@
 
 ## <center>Android Development</center>
 
-## <center>Internet of Things</center>
-
 ## <center>Game Development</center>
+
+## <center>Internet of Things</center>
 
 ## <center>Web Development</center>
 
