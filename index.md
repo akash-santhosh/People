@@ -21,3 +21,5 @@
 ## <center>Blockchain</center>
 
 ## <center>AI and ML</center>
+
+## <center> Bonus : FOSS People</center> 
