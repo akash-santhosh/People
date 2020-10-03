@@ -1,6 +1,6 @@
 # <center>Resource Persons for Technologies</center>
 \
-\
+
 ## Software Development
 
 ## Web Development
