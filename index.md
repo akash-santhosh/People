@@ -16,6 +16,6 @@
 
 ## <center>Cloud Computing</center>
 
-## <center>Artificial Intelligence and Machine Learning</center>
+## <center>AI and ML</center>
 
-## <center>Augmented Reality, Virtual Reality and Mixed Reality</center>
+## <center>AR, VR and MR</center>
