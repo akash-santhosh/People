@@ -1,4 +1,4 @@
-# <-Resource Persons for Technologies->
+# <center>Resource Persons for Technologies</center>
 
 
 ## Software Development
