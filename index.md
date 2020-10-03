@@ -2,20 +2,20 @@
 \
 \
 .................................................................................................................................
-## Software Development
+## <center>Software Development</center>
 
-## Web Development
+## <center>Web Development</center>
 
-## Android Development
+## <center>Android Development</center>
 
-## Game Development
+## <center>Game Development</center>
 
-## Internet of Things 
+## <center>Internet of Things</center>
 
-## Blockchain
+## <center>Blockchain</center>
 
-## Cloud Computing
+## <center>Cloud Computing</center>
 
-## Artificial Intelligence and Machine Learning
+## <center>Artificial Intelligence and Machine Learning</center>
 
-## Augmented Reality, Virtual Reality and Mixed Reality
+## <center>Augmented Reality, Virtual Reality and Mixed Reality</center>
