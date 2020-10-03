@@ -13,3 +13,7 @@ Example :
 - Person 2 (React Native) - contact method 1, contact method 2 
 - Person 3 (Java) - contact method 1, contact method 2
 - Person 4 (Kotlin) - contact method 1, contact method 2 
+
+
+
+### Also If Possible,Put up a separate category and add persons who can find most of the resorce person, someone like a Community Builder or Community Evangelist.
