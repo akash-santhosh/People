@@ -44,7 +44,7 @@
 
 ## <center>Blockchain</center>
 
--
+- [Allen Joseph](https://github.com/AllenAJ)
 -
 
 ## <center>AI and ML</center>
