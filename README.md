@@ -16,4 +16,4 @@ Example :
 
 
 ### Special Category : FOSS People
-### Note : A separate category is put up add persons who can find most of the resorce person, someone like a Community Builder or Community Evangelist.
+### Note : A separate category is put up add persons who can find most of the resource person, someone like a Community Builder or Community Evangelist.
