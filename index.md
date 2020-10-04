@@ -14,7 +14,7 @@
 
 ## <center>Cyber Security</center>
 - [Farzan Mohammed](https://github.com/ZeroPrime9)
--
+- [Kai Iyer](https://github.com/kaiiyer)
 
 ## <center>Game Development</center>
 
