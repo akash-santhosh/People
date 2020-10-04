@@ -13,7 +13,7 @@
 -
 
 ## <center>Cyber Security</center>
-- [Farzan Mohammed] (https://github.com/ZeroPrime9)
+- [Farzan Mohammed](https://github.com/ZeroPrime9)
 -
 
 ## <center>Game Development</center>
