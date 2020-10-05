@@ -23,8 +23,9 @@
 
 ## <center>Web Development</center>
 
--
--
+- [Paul Irish](https://github.com/paulirish)
+- [Addy Osmani](https://github.com/addyosmani)
+- [Evan You](https://github.com/yyx990803)
 
 ## <center>Internet of Things</center>
 
