@@ -59,7 +59,7 @@
 
 ## <center>Community Evangelists/Community Builders</center>
 
--
+- [Farzan F A](https://github.com/farzanfa) &nbsp;  [![linkedin Badge](https://img.shields.io/badge/@farzanfa-blue?style=flat-square&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/farzanfa/)](https://www.linkedin.com/in/farzanfa/)
 -
 
 ## <center> Bonus : FOSS People</center> 
