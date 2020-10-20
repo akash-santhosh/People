@@ -7,7 +7,7 @@
 -
 
 ## <center>Android Development</center>
--
+- [Don Kora Jacob](https://github.com/don-k-jacob)
 -
 
 ## <center>Cyber Security</center>
@@ -24,7 +24,7 @@
 - [Evan You](https://github.com/yyx990803)
 
 ## <center>Internet of Things</center>
--
+- 
 -
 
 ## <center>Cloud Computing</center>
