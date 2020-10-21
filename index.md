@@ -3,12 +3,12 @@
 \
 .................................................................................................................................
 ## <center>Software Development</center>
-- [Vishnu P](https://github.com/VishnuPothan)
+- 
 -
 
 ## <center>Android Development</center>
 - [Don Kora Jacob](https://github.com/don-k-jacob)
--
+- [Vishnu P](https://github.com/VishnuPothan)
 
 ## <center>Cyber Security</center>
 - [Farzan Mohammed](https://github.com/ZeroPrime9)
