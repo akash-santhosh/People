@@ -48,7 +48,7 @@
 -
 
 ## <center>Community Evangelists/Community Builders</center>
-- [Farzan F A](https://github.com/farzanfa) | [Linkedin](https://www.linkedin.com/in/farzanfa/)](https://www.linkedin.com/in/farzanfa/)
+- [Farzan F A](https://github.com/farzanfa) | [Linkedin](https://www.linkedin.com/in/farzanfa/)]
 - [Akash Santhosh](https://github.com/akash-santhosh) | [LinkedIn](https://linkedin.com/in/akashsanthosh)
 
 ## <center> Bonus : FOSS People</center> 
